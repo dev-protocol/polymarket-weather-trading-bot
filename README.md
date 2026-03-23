@@ -5,7 +5,7 @@ It scans NWS forecasts, finds mispriced temperature markets, and simulates trade
 
 ## Prove of Work
 
-https://github.com/user-attachments/assets/3d1a1f4e-9df8-4836-8147-386a91b75217
+https://github.com/user-attachments/assets/b4739b51-b024-4a94-98a4-d3998cea7d48
 
 ### Install
 
